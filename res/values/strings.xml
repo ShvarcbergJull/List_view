@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListView_Pract1</string>
+    <string-array name="sex">
+        <item>---</item>
+        <item>man</item>
+        <item>woman</item>
+        <item>unknown</item>
+    </string-array>
+</resources>

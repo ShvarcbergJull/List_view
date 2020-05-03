@@ -1,0 +1,17 @@
+{
+  "user":{
+    "name": "Vasya",
+    "phone": "123",
+    "sex": "man"
+  },
+  "user": {
+    "name": "Nastya",
+    "phone": "456",
+    "sex": "woman"
+  },
+  "user": {
+    "name": "cat",
+    "phone": "000",
+    "sex": "unknown"
+  }
+}
